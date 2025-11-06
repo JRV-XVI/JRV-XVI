@@ -32,4 +32,4 @@
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/jrv-xvi" target="_blank">Jonathan Roman</a> Email: jrv.software@outlook.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/jrv-xvi" target="_blank">Jonathan R</a> Email: jrv.software@outlook.com</p>
