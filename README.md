@@ -95,9 +95,11 @@ Leading a community of CS students while developing key soft skills:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRV-XVI&show_icons=true&theme=radical)
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=JRV-XVI&theme=dark&show_icons=true&count_private=true">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRV-XVI&layout=compact&theme=radical)
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=JRV-XVI&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=JRV-XVI&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## 📫 Let's Connect!
 
