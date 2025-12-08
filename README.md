@@ -13,7 +13,7 @@ In **cybersecurity**, I'm at an early stage: studying fundamentals, practicing w
 - 🌐 Designing network infrastructure with Cisco hardware, VLANs, and routing protocols
 - 🛡️ Learning cybersecurity fundamentals and practicing with beginner-level tools
 - 🤖 Working with embedded solutions (Arduino, Raspberry Pi) for automation projects
-- 👥 Leading **PawnGuard Cybersecurity Club** as Vice President — organizing workshops, CTF competitions, and student projects
+- 👥 Leading**[PawnGuard Cybersecurity Club](https://github.com/PawnGuard)** as Vice President — organizing workshops, CTF competitions, and student projects
 - 🚀 Always exploring new tools and sharing knowledge with the community
 
 ## 🛠️ Tech Stack
