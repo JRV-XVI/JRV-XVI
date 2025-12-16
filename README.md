@@ -6,7 +6,7 @@ I'm a Computer Science student passionate about networks, backend development, a
 
 I enjoy working on diverse projects, from full-stack web applications to network infrastructure design. I also have experience with embedded solutions using Arduino and Raspberry Pi when they add value to a project.
 
-In **cybersecurity**, I'm at an early stage: studying fundamentals, practicing with basic tools, and participating in learning activities. My focus is on network and application security, combining theory with hands-on practice to steadily grow my skills.
+In **cybersecurity**, I'm at an early stage: studying fundamentals, practicing with basic tools, and participating in learning activities.
 
 ### What I'm up to:
 - 🔭 Building full-stack applications with React, Node.js, and PostgreSQL
