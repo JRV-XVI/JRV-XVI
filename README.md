@@ -4,7 +4,7 @@
 
 I'm a Computer Science student passionate about networks, backend development, and building applications that solve real problems. Currently pursuing my B.S. in Computer Science and Technology.
 
-I enjoy working on diverse projects, from full-stack web applications to network infrastructure design. I also have experience with embedded solutions using Arduino and Raspberry Pi when they add value to a project.
+I enjoy working on diverse projects, from full-stack web applications to network infrastructure design. I also have experience with embedded solutions using Arduino and Raspberry Pi.
 
 In **cybersecurity**, I'm at an early stage: studying fundamentals, practicing with basic tools, and participating in learning activities.
 
@@ -59,33 +59,6 @@ In **cybersecurity**, I'm at an early stage: studying fundamentals, practicing w
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine&logoColor=black)
-
-## 🚀 Featured Projects
-
-### 🌐 [Connect the Schools](https://github.com/JRV-XVI/connect-the-schools)
-Full-stack web application connecting schools using React, Node.js, Express.js, and PostgreSQL. RESTful API with Knex.js for efficient database querying.
-
-**Tech:** React • Node.js • Express.js • PostgreSQL • Knex.js
-
-### 📱 [In and Out](https://github.com/JRV-XVI/in-and-out)
-Mobile logistics management application with TypeScript, featuring Supabase backend for authentication and real-time data storage.
-
-**Tech:** TypeScript • Node.js • Supabase
-
-### 🤖 [Turing Machine in Arduino](https://github.com/JRV-XVI/car-turing-machine)
-Hardware implementation of a Turing machine using Arduino with LED display interface — exploring theoretical computing concepts through embedded systems.
-
-**Tech:** Arduino • C++
-
-### 💡 [Recommendation System](https://github.com/JRV-XVI/sistema-recomendador-final)
-Graph-based recommendation system in C++ using filtering techniques for personalized content suggestions.
-
-**Tech:** C++ • Graph Data Structures
-
-### 🌐 Network Infrastructure Project
-Complete network infrastructure design using Cisco hardware, implementing VLANs, routing protocols, and switching configurations for enhanced security and performance.
-
-**Tech:** Cisco Hardware • VLANs • Routing Protocols • Network Security
 
 ## 🎯 Leadership & Soft Skills
 
